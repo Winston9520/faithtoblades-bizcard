@@ -1,0 +1,7 @@
+/card.pkpass
+  Content-Type: application/vnd.apple.pkpass
+  Content-Disposition: attachment; filename="faithtoblades.pkpass"
+
+/winston-easy.vcf
+  Content-Type: text/vcard
+  Content-Disposition: attachment; filename="winston-easy.vcf"
